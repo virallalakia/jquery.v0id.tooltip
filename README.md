@@ -3,14 +3,14 @@ jquery.v0id.tooltip
 ---
 
 This is a jQuery plug-in for Tooltip. It provides many options to customize the tooltip.  
-Download [sample](https://github.com/virallalakia/jquery.v0id.tooltip/blob/master/downloads/jquery.v0id.tooltip-1.2.zip) to try it yourself.  
+Download [sample](https://github.com/virallalakia/jquery.v0id.tooltip/blob/master/downloads/jquery.v0id.tooltip-1.2.zip?raw=true) to try it yourself.  
   
 See more for:
 * [Options](https://github.com/virallalakia/jquery.v0id.tooltip#options)
 * [Functions](https://github.com/virallalakia/jquery.v0id.tooltip#functions)
 * [Examples](https://github.com/virallalakia/jquery.v0id.tooltip#examples)
 * Downloads
-  * [Latest - jquery.v0id.tooltip-1.2](https://github.com/virallalakia/jquery.v0id.tooltip/blob/master/downloads/jquery.v0id.tooltip-1.2.zip)
+  * [Latest - jquery.v0id.tooltip-1.2](https://github.com/virallalakia/jquery.v0id.tooltip/blob/master/downloads/jquery.v0id.tooltip-1.2.zip?raw=true)
   * [All Versions](https://github.com/virallalakia/jquery.v0id.tooltip/tree/master/downloads)
 
 ---
