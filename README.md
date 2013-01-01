@@ -38,16 +38,22 @@ Functions
 Examples
 ===
 * **init** _(default or with above options)_
-  1. default:
-      $("#target1").v0idtooltip();
-  2. with options:
-  `$("#target2").v0idtooltip({  
-  		'content' : 'Custom<br/>Text',  
-			'position' : 'left',  
-			'left' : 10,  
-			'top' : -20,  
-			'speed' : 1000  
-		});`
-* **show** `(special call to show toltip)`
-* **hide** _(special call to hide toltip)_
-* **remove** _(remove toltip)_
+  1. default:  
+      `$("#target1").v0idtooltip();`
+  2. with options:  
+      `$("#target2").v0idtooltip({`  
+      `    'content' : 'Custom<br/>Text',`  
+      `    'position' : 'left',`  
+      `    'left' : 10,`  
+      `    'top' : -20,`  
+      `    'speed' : 1000,`  
+      `    'textClass' : 'yourCssClass'`  
+      `});`  
+* **show** `(special call to show toltip)`  
+    `$("#target1").v0idtooltip('show');`
+* **hide** _(special call to hide toltip)_  
+    `$("#target1").v0idtooltip('hide');`
+* **remove** _(remove toltip)_  
+    `$("#target1").v0idtooltip('remove');`
+
+---
