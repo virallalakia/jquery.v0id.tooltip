@@ -7,6 +7,9 @@ See more for:
 * [Options](https://github.com/virallalakia/jquery.v0id.tooltip/edit/master/README.md#options)
 * [Functions](https://github.com/virallalakia/jquery.v0id.tooltip/edit/master/README.md#functions)
 * [Examples](https://github.com/virallalakia/jquery.v0id.tooltip/edit/master/README.md#examples)
+* Downloads
+  * [Latest - jquery.v0id.tooltip-1.2](https://github.com/virallalakia/jquery.v0id.tooltip/blob/master/downloads/jquery.v0id.tooltip-1.2.zip)
+  * [All Versions](https://github.com/virallalakia/jquery.v0id.tooltip/tree/master/downloads)
 
 ---
 
