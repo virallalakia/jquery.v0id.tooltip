@@ -3,6 +3,8 @@ jquery.v0id.tooltip
 ---
 
 This is a jQuery plug-in for Tooltip. It provides many options to customize the tooltip.  
+Download [sample](https://github.com/virallalakia/jquery.v0id.tooltip/blob/master/downloads/jquery.v0id.tooltip-1.2.zip) to try it yourself.  
+  
 See more for:
 * [Options](https://github.com/virallalakia/jquery.v0id.tooltip#options)
 * [Functions](https://github.com/virallalakia/jquery.v0id.tooltip#functions)
@@ -52,7 +54,7 @@ Examples
       `    'speed' : 1000,`  
       `    'textClass' : 'yourCssClass'`  
       `});`  
-* **show** `(special call to show toltip)`  
+* **show** _(special call to show toltip)_  
     `$("#target1").v0idtooltip('show');`
 * **hide** _(special call to hide toltip)_  
     `$("#target1").v0idtooltip('hide');`
